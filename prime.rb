@@ -1,6 +1,7 @@
 def prime?(number)
-(2..1000)
-  if number % positives == 0
+if number < 1 
+  false
+
   end
 end
 
