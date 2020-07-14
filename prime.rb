@@ -1,7 +1,7 @@
 def prime?(number)
 counter = 2
 if number > 1 
-  range = 
+  range = (counter..number-1)
 
   end
 end
