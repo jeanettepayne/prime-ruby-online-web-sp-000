@@ -1,6 +1,7 @@
 def prime?(number)
 counter = 2
 if number > 1 
+  range = 
 
   end
 end
