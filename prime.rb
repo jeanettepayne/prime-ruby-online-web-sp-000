@@ -4,6 +4,9 @@ if number > 1
   range = (counter..number-1).to_a
   range.none? |test_num|
   number % test_num == 0
+  
+else
+  false
 
   end
 end
